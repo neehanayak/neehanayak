@@ -19,7 +19,7 @@
 
 ---
 
-#### 🚀 My recent work
+#### My recent work
 
 - Built **1B+ row data pipelines** on BigQuery + Spark  
 - Designed forecasting systems for **2200+ entities**  
@@ -36,17 +36,7 @@
 
 ---
 
-#### 📈 GitHub stats
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neehanayak&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" />
-</p>
-
----
-
-#### 🐍 Contribution Snake
+#### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/neehanayak/neehanayak/output/github-contribution-grid-snake.svg" />
