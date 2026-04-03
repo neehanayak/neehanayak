@@ -42,9 +42,4 @@
   <img src="https://raw.githubusercontent.com/neehanayak/neehanayak/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-#### ☕ Let’s connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/neha-vivekananda-nayak/  
-- 📫 wizardingbyte@outlook.com  
