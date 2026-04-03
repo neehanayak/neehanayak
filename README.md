@@ -39,7 +39,7 @@
 #### 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neehanayak&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neehanayak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -55,4 +55,4 @@
 #### ☕ Let’s connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/neha-vivekananda-nayak/  
-- 📫 neehanayak@gmail.com  
+- 📫 wizardingbyte@outlook.com  
