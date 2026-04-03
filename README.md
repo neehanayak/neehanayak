@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Neha Nayak!
+# 👋 Hi there, I'm Neha Nayak!
 
 ---
 
-#### 💻 When I code, I rely on
+#### When I code, I rely on
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -31,15 +31,17 @@
 #### 📊 GitHub contributions summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neehanayak&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=neehanayak&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
 </p>
 
 ---
 
 #### 📈 GitHub stats
 
+### 📊 GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neehanayak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neehanayak&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" />
 </p>
 
 ---
@@ -47,7 +49,7 @@
 #### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neehanayak/neehanayak/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/neehanayak/neehanayak/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
